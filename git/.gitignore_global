@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+.idea/
+.env
+*.log
+node_modules/
+vendor/

@@ -1,0 +1,11 @@
+[user]
+	name = Orkhan Alishov
+	email = or.alishov@gmail.com
+[init]
+	defaultBranch = main
+[format]
+	pretty = %h %ad | %s%d [%an]
+[log]
+	date = short
+[core]
+	excludesfile = ~/.gitignore_global

@@ -2,6 +2,10 @@
 
 set -ex
 
+# Git
+cp ~/.gitconfig git/
+cp ~/.gitignore_global git/
+
 # VSCode
 cp ~/.config/Code/User/settings.json vscode/
 code --list-extensions > vscode/extensions.txt
