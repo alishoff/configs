@@ -1,0 +1,52 @@
+{
+    "workbench.tips.enabled": false,
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
+
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "editor.fontFamily": "'Fira Code', 'Consolas', 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.lightbulb.enabled": "off",
+    "editor.hover.enabled": false,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": true,
+    "editor.codeLens": false,
+    "editor.rulers": [80, 120],
+
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "node_modules": true,
+        ".vscode": true
+    },
+
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.07)",
+        "rgba(127,255,127,0.07)",
+        "rgba(255,127,255,0.07)",
+        "rgba(79,236,236,0.07)"
+    ],
+
+    "html.autoClosingTags": true,
+    "javascript.autoClosingTags": true,
+    "update.showReleaseNotes": false,
+    "extensions.ignoreRecommendations": true
+}
