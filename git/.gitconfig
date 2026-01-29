@@ -9,3 +9,4 @@
 	date = short
 [core]
 	excludesfile = ~/.gitignore_global
+	autocrlf = false
