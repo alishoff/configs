@@ -12,7 +12,5 @@ pranaygp.vscode-css-peek
 ritwickdey.liveserver
 stylelint.vscode-stylelint
 vincaslt.highlight-matching-tag
-visualstudioexptteam.intellicode-api-usage-examples
-visualstudioexptteam.vscodeintellicode
 vue.volar
 zignd.html-css-class-completion
