@@ -1,0 +1,14 @@
+set linenumbers
+set autoindent
+set tabsize 4
+set tabstospaces
+set trimblanks
+set unix
+
+set titlecolor brightwhite,blue
+set numbercolor brightcyan
+set statuscolor brightwhite,black
+set keycolor brightyellow
+set functioncolor brightgreen
+
+include "/usr/share/nano/*.nanorc"
