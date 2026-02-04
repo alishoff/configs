@@ -1,0 +1,1 @@
+SSH hosts and application settings are synchronized via Termius account.

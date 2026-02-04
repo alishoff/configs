@@ -1,0 +1,1 @@
+IDE settings are synchronized via JetBrains Account.
