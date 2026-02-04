@@ -1,8 +1,8 @@
 {
-    "workbench.tips.enabled": false,
     "workbench.colorTheme": "Monokai Pro (Filter Machine)",
     "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.tips.enabled": false,
     "workbench.editor.enablePreview": false,
 
     "explorer.compactFolders": false,
@@ -18,7 +18,7 @@
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.lightbulb.enabled": "off",
-    "editor.hover.enabled": false,
+    "editor.hover.enabled": "off",
     "editor.linkedEditing": true,
     "editor.minimap.enabled": true,
     "editor.codeLens": false,
