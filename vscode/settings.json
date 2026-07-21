@@ -45,7 +45,6 @@
     ],
 
     "html.autoClosingTags": true,
-    "javascript.autoClosingTags": true,
     "update.showReleaseNotes": false,
     "extensions.ignoreRecommendations": true
 }
